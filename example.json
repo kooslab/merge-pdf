@@ -1,0 +1,17 @@
+{
+  "files": [
+    {
+      "path": "/your-path/pdf_00.pdf"
+    },
+    {
+      "path": "/your-path/pdf_01.pdf"
+    }
+  ],
+  "metadata": {
+    "producer": "pdf-merger-js based script",
+    "author": "Kooslab",
+    "creator": "Ilmo Koo",
+    "title": "Business Plan for Kooslab UG"
+  },
+  "output": "/your-path/merged.pdf"
+}
